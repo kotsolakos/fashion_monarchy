@@ -6,12 +6,12 @@ import { getFirestore, doc, getDoc, setDoc, collection, writeBatch, query, getDo
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID
+    apiKey: "AIzaSyDbkCJGdBCwX3UOxInw3_fDsKMYWCDDlLQ",
+    authDomain: "fashion-monarchy.firebaseapp.com",
+    projectId: "fashion-monarchy",
+    storageBucket: "fashion-monarchy.appspot.com",
+    messagingSenderId: "736488373200",
+    appId: "1:736488373200:web:a9ab965b45ba7ec45bd7d5"
 };
 
   
